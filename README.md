@@ -40,4 +40,4 @@ python3 -m http.server 8000
 
 ## 来源
 
-页面最初托管在 WorkBuddy 资料库，本仓库为其 GitHub Pages 发布版本，已移除平台注入脚本与内部标记，内容保持一致。
+本仓库为其 GitHub Pages 发布版本，已移除平台注入脚本与内部标记，内容保持一致。
